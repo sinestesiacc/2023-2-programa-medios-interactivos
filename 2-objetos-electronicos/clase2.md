@@ -75,6 +75,8 @@ Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) par
 
 ## ejercicio 4: entrada y salida analógica (sensor de proximidad SHARP)
 
-<img src="media/ej_03_rgb_digital_ldr.jpg" width="500">
+<img src="media/ej_03_entrada_salida_analogica_ldr.jpg" width="500">
 
 [ejemplos/ej_03_rgb_digital/](./ejemplos/ej_04_entrada_salida_analogica_sharp/)
+
+<img src="media/ej_04_entrada_salida_analogica_sharp" width="500">
