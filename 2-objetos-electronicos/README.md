@@ -2,9 +2,9 @@
 
 ## Estructura del repositorio
 
-- [clase1.md](clase1.md): miercoles 10 de mayo
-- [clase2.md](clase2.md): miercoles 17 de mayo
-- [clase3.md](clase3.md): miercoles 24 de mayo
+- [clase1.md](clase1.md): miercoles 27 de septiembre
+- [clase2.md](clase2.md): lunes 2 de octubre
+- [clase3.md](clase3.md): miercoles 4 de octubre
 - [ejemplos/](ejemplos/): carpeta con los ejemplos de código.
 
 ## Profesor
