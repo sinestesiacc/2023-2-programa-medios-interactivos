@@ -2,7 +2,7 @@
 
 Electrónica y programación con Arduino
 
-Miercoles 10 mayo 2023
+Miercoles 27 de septiembre
 
 Hoy aprenderemos:
 
