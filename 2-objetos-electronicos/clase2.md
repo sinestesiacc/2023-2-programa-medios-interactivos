@@ -67,8 +67,14 @@ Permite variar tiempo de una señal digital con estado alto o bajo (5V o 0V) par
 
 <img src="media/pwm.jpg" width="700">
 
-## ejercicio 3: LED RGB y entrada digital (sensor de luz LDR)
+## ejercicio 3: ejercicio 2: entrada y salida analógica (sensor de luz LDR)
 
 <img src="media/ej_03_rgb_digital_ldr.jpg" width="500">
 
-[ejemplos/ej_03_rgb_digital/](./ejemplos/ej_03_rgb_digital/)
+[ejemplos/ej_03_rgb_digital/](./ejemplos/ej_03_entrada_salida_analogica_ldr/)
+
+## ejercicio 4: entrada y salida analógica (sensor de proximidad SHARP)
+
+<img src="media/ej_03_rgb_digital_ldr.jpg" width="500">
+
+[ejemplos/ej_03_rgb_digital/](./ejemplos/ej_04_entrada_salida_analogica_sharp/)
