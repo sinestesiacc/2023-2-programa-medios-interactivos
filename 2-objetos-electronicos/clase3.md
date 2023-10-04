@@ -17,8 +17,9 @@ Hoy aprenderemos:
 
 ## enlaces a ejemplos de esta clase
 
-- [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
 - [ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
+- [ejemplos/ej_06_servo_analogico_rangos/](./ejemplos/ej_06_servo_analogico_rangos/)
+- [ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
 
 ## uso e instalación de librerías
 
@@ -27,7 +28,7 @@ Servo servo1;        // crear objeto servo
 
 ## ejercicio 5: motor servo y entrada analógica (potenciómetro)
 
-<img src="media/ej_06_servo_sharp.jpg" width="500">
+<img src="media/ej_05_servo_analogico.jpg" width="500">
 
 [ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
 
@@ -35,12 +36,12 @@ Servo servo1;        // crear objeto servo
 
 Ambos casos usan el mismo código por usar sensore de entrada analógica en conjunto con un motor servo.
 
-<img src="media/ej_07_servo_analogico.jpg" width="500">
+<img src="media/ej_06_servo_sharp.jpg" width="500">
 
-[ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
+[ejemplos/ej_06_servo_analogico_rangos/](./ejemplos/ej_06_servo_analogico_rangos/)
 
 ## ejercicio 7: buzzer pasivo y entrada analógica (sensor de proximidad SHARP)
 
-<img src="media/ej_06_servo_sharp.jpg" width="500">
+<img src="media/ej_07_buzzer_sharp.jpg" width="500">
 
-[ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
+[ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
