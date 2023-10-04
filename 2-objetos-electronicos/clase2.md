@@ -9,7 +9,7 @@ Hoy aprenderemos:
 - Señales analógicas y digitales
 - Modulación por ancho de pulsos (PWM)
 - Componentes eléctricos, sensores y actuadores
-- Sensores de luz, sonido y proximidad
+- Sensores de luz y proximidad
 - Programación en Arduino: Condicionales, mapeo de valores
 
 ## enlace a presentación PDF
