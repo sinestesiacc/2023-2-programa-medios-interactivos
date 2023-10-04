@@ -13,12 +13,12 @@ Hoy aprenderemos:
 - Programación en Arduino: Condicionales, mapeo de valores
 
 ## enlace a presentación PDF
-- [presentaciones/sinestesia-objetos-electronicos-clase2.pdf](./presentaciones/sinestesia-objetos-electronicos-clase2.pdf)
+- [presentaciones/sinestesia-objetos-clase2.pdf](./presentaciones/sinestesia-objetos-clase2.pdf)
 
 ## enlaces a ejemplos de esta clase
 
-- [ejemplos/ej_03_rgb_digital/](./ejemplos/ej_03_rgb_digital/)
-- [ejemplos/ej_04_rgb_analogico/](./ejemplos/ej_04_rgb_analogico/)
+- [ejemplos/ej_03_entrada_salida_digital/](./ejemplos/ej_03_entrada_salida_digital/)
+- [ejemplos/ej_04_entrada_salida_analogica_rangos/](./ejemplos/ej_04_entrada_salida_analogica_rangos/)
 
 ## datos digitales y analógicos
 
