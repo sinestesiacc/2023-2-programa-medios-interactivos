@@ -12,7 +12,7 @@ Hoy aprenderemos:
 - Control digital y analógico circuito LED
 
 ## enlace a presentación PDF
-- [presentaciones/sinestesia-objetos-electronicos-clase1.pdf](./presentaciones/sinestesia-objetos-electronicos-clase1.pdf)
+- [presentaciones/sinestesia-objetos-clase1.pdf](./presentaciones/sinestesia-objetos-clase1.pdf)
 
 ## enlaces a ejemplos de esta clase
 
