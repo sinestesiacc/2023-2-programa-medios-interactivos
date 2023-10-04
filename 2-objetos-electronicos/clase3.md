@@ -9,6 +9,7 @@ Hoy aprenderemos:
 - Sensores de señal analógica
 - Uso e instalación de librerías
 - Movimiento físico con motor servo
+- Sonido con buzzer pasivo
 - Autonomía de prototipos electrónicos
 
 ## enlace a presentación PDF
