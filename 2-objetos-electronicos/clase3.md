@@ -34,12 +34,12 @@ Servo servo1;        // crear objeto servo
 
 ## ejercicio 6: motor servo y entrada analógica (sensor de proximidad SHARP)
 
-Ambos casos usan el mismo código por usar sensore de entrada analógica en conjunto con un motor servo.
+Ambos casos usan el mismo código por usar sensores de entrada analógica en conjunto con un motor servo.
+Es necesario ajustar el rango de valores en mapeo.
 
 <img src="media/ej_06_servo_sharp.jpg" width="500">
 
 [ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
-* es el mismo codigo que en el ejemplo anterior pero hay que ajustar rangos de mapeo
 
 ## ejercicio 7: buzzer pasivo y entrada analógica (sensor de proximidad SHARP)
 
