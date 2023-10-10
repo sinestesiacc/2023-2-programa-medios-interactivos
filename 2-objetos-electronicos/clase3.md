@@ -38,10 +38,18 @@ Ambos casos usan el mismo código por usar sensore de entrada analógica en conj
 
 <img src="media/ej_06_servo_sharp.jpg" width="500">
 
-[ejemplos/ej_06_servo_analogico_rangos/](./ejemplos/ej_06_servo_analogico_rangos/)
+[ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
 
 ## ejercicio 7: buzzer pasivo y entrada analógica (sensor de proximidad SHARP)
 
 <img src="media/ej_07_buzzer_sharp.jpg" width="500">
 
 [ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
+
+## ejercicio 8: buzzer pasivo, LED y entrada analógica (sensor de proximidad SHARP)
+
+<img src="media/ej_07_buzzer_sharp.jpg" width="500">
+
+[ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
+
+
