@@ -18,8 +18,8 @@ Hoy aprenderemos:
 ## enlaces a ejemplos de esta clase
 
 - [ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
-- [ejemplos/ej_06_servo_analogico_rangos/](./ejemplos/ej_06_servo_analogico_rangos/)
-- [ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
+- [ejemplos/ej_07_buzzer_analogico_rangos/](./ejemplos/ej_07_buzzer_analogico_rangos/)
+- [ejemplos/ej_08_buzzer_led_analogico_rangos/](./ejemplos/ej_08_buzzer_led_analogico_rangos/)
 
 ## uso e instalación de librerías
 
@@ -39,17 +39,18 @@ Ambos casos usan el mismo código por usar sensore de entrada analógica en conj
 <img src="media/ej_06_servo_sharp.jpg" width="500">
 
 [ejemplos/ej_05_servo_analogico/](./ejemplos/ej_05_servo_analogico/)
+* es el mismo codigo que en el ejemplo anterior pero hay que ajustar rangos de mapeo
 
 ## ejercicio 7: buzzer pasivo y entrada analógica (sensor de proximidad SHARP)
 
 <img src="media/ej_07_buzzer_sharp.jpg" width="500">
 
-[ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
+[ejemplos/ej_07_buzzer_analogico_rangos/](./ejemplos/ej_07_buzzer_analogico_rangos/)
 
 ## ejercicio 8: buzzer pasivo, LED y entrada analógica (sensor de proximidad SHARP)
 
 <img src="media/ej_08_buzzer_led_sharp.jpg" width="500">
 
-[ejemplos/ej_07_buzzer_analogico/](./ejemplos/ej_07_buzzer_analogico/)
+[ejemplos/ej_08_buzzer_led_analogico_rangos/](./ejemplos/ej_08_buzzer_led_analogico_rangos/)
 
 
