@@ -23,9 +23,9 @@ Hoy aprenderemos:
 
 Ambos casos usan el mismo código por usar sensores de entrada analógica en conjunto con un LED.
 
-<img src="media/ej_06A_datos_analogicos_pot.jpg" width="500">
+<img src="media/ej_09A_datos_analogicos_pot.jpg" width="500">
 
-[ejemplos/ej_06_datos_analogicos_processing/](./ejemplos/ej_06_datos_analogicos_processing/)
+[ejemplos/ej_09_datos_analogicos_processing/](./ejemplos/ej_09_datos_analogicos_processing/)
 
 ## ejercicio 9B: Librería Firmata, datos analógicos entre Arduino y Processing (sensor de proximidad SHARP)
 
@@ -45,4 +45,4 @@ De esta forma es posible compartir imágenes entre Processing y MadMapper
 
 ## ejercicio 11: Librería Firmata para comunicación entre Arduino y Madmapper
 
-Al igual que los ejercicios 6A y 6B, se usa la Librería Firmata que permite leer datos digitales y analógicos desde Madmapper
+Al igual que los ejercicios 9A y 9B, se usa la Librería Firmata que permite leer datos digitales y analógicos desde Madmapper
