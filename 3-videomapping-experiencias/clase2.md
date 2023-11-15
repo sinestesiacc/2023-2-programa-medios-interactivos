@@ -23,7 +23,7 @@ Hoy aprenderemos:
 
 Ambos casos usan el mismo código por usar sensores de entrada analógica en conjunto con un LED.
 
-<img src="archivos/ej_06A_datos_analogicos_pot.jpg" width="500">
+<img src="media/ej_06A_datos_analogicos_pot.jpg" width="500">
 
 [ejemplos/ej_06_datos_analogicos_processing/](./ejemplos/ej_06_datos_analogicos_processing/)
 
@@ -31,17 +31,17 @@ Ambos casos usan el mismo código por usar sensores de entrada analógica en con
 
 Ambos ejercicios usan el mismo código por usar sensores de entrada analógica en conjunto con un LED.
 
-<img src="archivos/ej_09B_datos_analogicos_sharp.jpg" width="500">
+<img src="media/ej_09B_datos_analogicos_sharp.jpg" width="500">
 
-[ejemplos/ej_09_datos_analogicos_processing/](./ejemplos/ej_06_datos_analogicos_processing/)
+[ejemplos/ej_09_datos_analogicos_processing/](./ejemplos/ej_09_datos_analogicos_processing/)
 
 ## ejercicio 10: Spout y Syphon para comunicación entre Processing y Madmapper
 
 Spout (Windows) y Syphon (Mac) permiten compartir texturas entre diferentes software usando recursos de la tarjeta gráfica.
 De esta forma es posible compartir imágenes entre Processing y MadMapper
 
-- [ejemplos/ej_10_spout_processing/](./ejemplos/ej_07_spout_processing)
-- [ejemplos/ej_10_syphon_processing/](./ejemplos/ej_07_syphon_processing)
+- [ejemplos/ej_10_spout_processing/](./ejemplos/ej_10_spout_processing)
+- [ejemplos/ej_10_syphon_processing/](./ejemplos/ej_10_syphon_processing)
 
 ## ejercicio 11: Librería Firmata para comunicación entre Arduino y Madmapper
 
